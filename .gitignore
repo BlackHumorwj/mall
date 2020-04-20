@@ -7,8 +7,8 @@ yarn-error.log*
 /test/unit/coverage/
 
 # Editor directories and files
-.idea
-.vscode
+.idea # webstorm配置
+.vscode # vsCode 配置
 *.suo
 *.ntvs*
 *.njsproj
